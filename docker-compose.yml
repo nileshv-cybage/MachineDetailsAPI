@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  machinedetailsapi:
+    image: ${DOCKER_REGISTRY-}machinedetailsapi
+    build:
+      context: .
+      dockerfile: MachineDetailsAPI/Dockerfile

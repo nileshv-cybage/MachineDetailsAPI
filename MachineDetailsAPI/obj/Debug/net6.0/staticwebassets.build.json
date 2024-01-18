@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C7AMSxAJNGwKrGsB/I19yi2NvpxMYMdC1wPIVFT8wn8=",
+  "Source": "MachineDetailsAPI",
+  "BasePath": "_content/MachineDetailsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
